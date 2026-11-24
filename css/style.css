@@ -104,6 +104,14 @@ nav ul li a{
 .plant_btns_under{
     padding-top: 30px;
 }
+.gride h2{
+    display: flex;
+    text-align: center;
+}
+.gride{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 
 @media (max-width: 768px) {
     
