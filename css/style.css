@@ -113,6 +113,16 @@ nav ul li a{
 
     padding-top: 20px;
 }
+.flex{
+    width: 250px;
+    height: 100px;
+     background-color: var(--semi);
+
+     border-radius: 8px;
+}
+.flex span{
+    font-family: 12px;
+}
 
 @media (max-width: 768px) {
     
